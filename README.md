@@ -10,8 +10,11 @@ Ferramentas:
 - Eclipse
 - MySQL
 - MySQL Workbanch
+- Linux
 
-SQL é uma linguagem de programação declarativa para manipulação de dados extremamente poderosa, amplamente utilizada em projetos e sistemas corporativos desktop, WEB e mobile, bem como em projetos de ciências dos dados,
+SQL é uma linguagem de programação declarativa para manipulação de dados extremamente poderosa, amplamente utilizada em projetos e sistemas corporativos desktop, WEB e mobile, bem como em projetos de ciências dos dados.
+
+O MySQL em particular é o banco de dados relacinal popular para sistemas WEB, 70% da WEB é feita em LAMP tack (Linux, Apache, MySQL e PHP). Nós usamos Java e Tomcat no logar do PHP e Apache. 
 
 Referências:
 
@@ -25,3 +28,9 @@ Referências:
 Usar arquitetura MVC no seu projeto
 
 Criar model com JavaBeas/POJO
+
+Mais sobre tech WEB:
+
+- https://w3techs.com/technologies/overview/programming_language
+- https://www.tiobe.com/tiobe-index/
+- https://db-engines.com/en/ranking
