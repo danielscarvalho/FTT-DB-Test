@@ -9,7 +9,7 @@ Ferramentas:
 - JDBC
 - Eclipse
 - MySQL
-- MySQL Workbanch
+- MySQL Workbanch - Gerar o modelo de dados com engenharia reversa do BD
 - Linux
 
 SQL é uma linguagem de programação declarativa para manipulação de dados extremamente poderosa, amplamente utilizada em projetos e sistemas corporativos desktop, WEB e mobile, bem como em projetos de ciências dos dados.
