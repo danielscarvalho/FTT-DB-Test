@@ -25,11 +25,11 @@ Referências:
 - https://www.javatpoint.com/java-jdbc
 - https://www.baeldung.com/java-jdbc
 
-Usar arquitetura MVC no seu projeto
+Usar arquitetura MVC no projeto
 
 Criar model com JavaBeas/POJO
 
-Mais sobre tech WEB:
+Mais sobre a popularidade das tech WEB:
 
 - https://w3techs.com/technologies/overview/programming_language
 - https://www.tiobe.com/tiobe-index/
