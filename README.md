@@ -11,7 +11,7 @@ Ferramentas:
 - MySQL
 - MySQL Workbanch
 
-SQL é uma linguagem para manipulação de dados extremament poderosa, amplamente utilizada em projetos e sistemas corporativos desktop, WEB e mobile, bem como em projetos de ciências dos dados,
+SQL é uma linguagem de programação declarativa para manipulação de dados extremament poderosa, amplamente utilizada em projetos e sistemas corporativos desktop, WEB e mobile, bem como em projetos de ciências dos dados,
 
 Referências:
 
