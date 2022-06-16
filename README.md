@@ -24,4 +24,4 @@ Referências:
 
 Usar arquitetura MVC no seu projeto
 
-Criar model com JavaBenas/POJO
+Criar model com JavaBeas/POJO
